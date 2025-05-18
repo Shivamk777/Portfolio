@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your portfolio project:
 
-```markdown
 # Personal Portfolio Website  
 
 Welcome to my Personal Portfolio Website! This project showcases my skills, projects, and achievements in web development. It serves as a platform to highlight my expertise and provide insights into my journey as a developer.
@@ -93,7 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for checking out my portfolio! Feedback and suggestions are always welcome. 😊
 
-```
 
-You can customize the sections further based on additional details about your project.
-```
