@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
 
-// Directly import the image from assets
+
 import projectImage from "../../assets/projects/project.png";
 
 export const ProjectCard = ({
@@ -10,7 +10,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={projectImage} // Directly use the imported image
+        src={projectImage} 
         alt={`Image of ${title}`}
         className={styles.image}
       />
