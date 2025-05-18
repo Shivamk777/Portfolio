@@ -63,13 +63,6 @@ Portfolio/
    ```
 5. Open your browser and navigate to `http://localhost:3000`.
 
-## 📸 Screenshots
-
-![Homepage](https://via.placeholder.com/800x400)
-*Description of the homepage screenshot.*
-
-![Projects Section](https://via.placeholder.com/800x400)
-*Description of the projects section screenshot.*
 
 ## 📬 Contact
 
@@ -83,11 +76,6 @@ Feel free to reach out to me:
 * Inspired by various portfolio designs from the developer community.
 * Thanks to the open-source contributors for the libraries and tools used.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for checking out my portfolio! Feedback and suggestions are always welcome. 😊
 
