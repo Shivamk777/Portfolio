@@ -4,7 +4,7 @@
 Welcome to my Personal Portfolio Website! This project showcases my skills, projects, and achievements in web development. It serves as a platform to highlight my expertise and provide insights into my journey as a developer.
 
 ## 🚀 Live Demo  
-Check out the live version of the portfolio here: [Portfolio Website](shivamportfoliowebapp.netlify.app/)
+Check out the live version of the portfolio here: [Portfolio Website]shivamportfoliowebapp.netlify.app/
 
 ## ✨ Features  
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices.  
