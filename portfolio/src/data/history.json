@@ -1,29 +1,46 @@
 [
-  {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+{
+    "role": "Wipro Java FullStack TalentNext Course ",
+    "organisation": "Wipro",
+    "startDate": "May, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": ["Learned Java and full-stack development.", 
+    "Gained expertise in Java full-stack development through hands-on exercises.",
+    "Gained knowledge of modern development tools."],
+    "imageSrc": "history/Wipro.png"
   },
-  {
-    "role": "UI Designer",
-    "organisation": "Microsoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+ {
+    "role": "Cisco Cybersecurity Virtual Internship",
+    "organisation": "Cisco",
+    "startDate": "May, 2024",
+    "endDate": "July, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Gained hands-on experience with cybersecurity tools and protocols.",
+      "Identified and mitigated potential security vulnerabilities.",
+      "Learned best practices for securing networks and systems."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/Cisco.png"
+  },
+  {
+    "role": "Salesforce Developer",
+    "organisation": "Salesforce",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Developed custom LWCs for improved workflows.", "Optimized Apex for efficient automation.","Built secure Salesforce Flows.","Configured VS Code and Salesforce CLI."],
+    "imageSrc": "history/Salesforce.png"
+  },
+  
+ 
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Technohack",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Built responsive web designs using HTML, CSS, and JavaScript.",
+      "Enhanced UI/UX for dynamic web applications.",
+      "Collaborated on front-end optimization and debugging."
+    ],
+    "imageSrc": "history/Technohack.png"
   }
 ]

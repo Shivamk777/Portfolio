@@ -13,9 +13,11 @@ import mongodbImage from "../../assets/skills/mongodb.png";
 import figmaImage from "../../assets/skills/figma.png";
 
 // History images imports
-import googleLogo from "../../assets/history/google.png";
-import microsoftLogo from "../../assets/history/google.png";
-import netflixLogo from "../../assets/history/netflix.png";
+import salesforceLogo from "../../assets/history/Salesforce.png";
+import wiproLogo from "../../assets/history/Wipro.png";
+import ciscoLogo from "../../assets/history/Cisco.png";
+import technohackLogo from "../../assets/history/Technohack.png";
+
 
 const skillImages = {
   HTML: htmlImage,
@@ -28,10 +30,10 @@ const skillImages = {
 };
 
 const historyImages = {
-  Google: googleLogo,
-  Microsoft: microsoftLogo,
-  
-  Netflix: netflixLogo,
+  Salesforce: salesforceLogo,
+  Wipro: wiproLogo,
+   Cisco: ciscoLogo,
+ Technohack: technohackLogo,
 };
 
 export const Experience = () => {

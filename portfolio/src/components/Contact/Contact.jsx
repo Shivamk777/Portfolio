@@ -26,7 +26,7 @@ const Contact = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            https://www.linkedin.com/in/shivam-patel-a11979247
+            linkedin.com/in/shivam-patel-a11979247
           </a>
         </li>
         <li className={styles.link}>
@@ -36,13 +36,10 @@ const Contact = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            https://github.com/Shivamk777
+            github.com/Shivamk777
           </a>
         </li>
       </ul>
-       <div className={styles.copyright}>
-        <p>© {new Date().getFullYear(2025)} Shivam Patel. All rights reserved.</p>
-      </div>
     </footer>
   )
 }

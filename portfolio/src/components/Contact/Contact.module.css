@@ -7,19 +7,20 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 100vw;
+  width: 100%;
   padding: 58px 10%;
   gap: 10px;
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 700;
   letter-spacing: 4px;
+  margin-bottom: 10px;
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 27px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -29,19 +30,19 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 15px;
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 20px;
 }
 
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 1.5px;
 }
@@ -63,14 +64,4 @@
   }
 }
 
-/* Just place copyright below your content and center it */
-.copyright {
-  margin-top: 40px; /* add space from above */
-  font-size: 14px;
-  color: #888;
-  text-align: center;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
